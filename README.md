@@ -1,1 +1,1 @@
-# Deciphering-landslide-failure-mechanisms
+# Uncovering landslide failure mechanisms
