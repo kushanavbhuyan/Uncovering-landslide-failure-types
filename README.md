@@ -1,4 +1,4 @@
-# Uncovering landslide failure mechanisms
+# Uncovering landslide failure types
 
 
 
