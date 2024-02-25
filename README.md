@@ -1,6 +1,6 @@
 # Uncovering landslide failure types
 
-"Sample Feature Engineered Data" contains the arrays that were generated using TDA. The data can be used to train any ML/DL model. 
+"Sample Feature Engineered Data" contains the arrays that were generated using TDA. The data can be used to train any ML/DL model. In our study, we utilized the Random Forest model but in theory, any ML or DL model can be used.
 
 ### Schematic outlook of failure movements
 ![Conceptial Diagram](misc/Figure 1.png)
