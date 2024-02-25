@@ -1,1 +1,1 @@
-Numpy array files for the 5 failure movements of Italy.
+The data found here are curated data using feature engineering where all the topological features are calculated already for you. These are numpy array files for the 5 movement classes of Italy that you can use directly for local machine testing purposes. Use the notebook 'Model training.ipynb' directly with these data for a quick check.
