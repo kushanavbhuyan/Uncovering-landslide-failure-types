@@ -8,6 +8,6 @@ Bhuyan, K., Rana, K., Ferrer, J.V. et al. Landslide topology uncovers failure mo
 ### Schematic outlook of failure movements
 ![Conceptial Diagram](https://github.com/kushanavbhuyan/Uncovering-landslide-failure-types/blob/main/misc/Figure%201.png)
 
-"Sample Feature Engineered Data" contains the arrays that were generated using TDA. The data can be used to train any ML/DL model. In our study, we utilized the Random Forest model but in theory, any ML or DL model can be used.
+"Sample Feature Engineered Data" contains some sample arrays that were generated using TDA. The data can be used to train any ML/DL model. In our study, we utilized the Random Forest model but in theory, any ML or DL model can be used.
 
 We also release the documentation of two inventories from Fan et al. (2019) which are now documented with failure-type information. Please find them in the folder 'Predictions'.
