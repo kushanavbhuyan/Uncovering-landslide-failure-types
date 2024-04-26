@@ -1,6 +1,6 @@
 # Uncovering landslide failure types
 
-This repository is a culmination of the work related to landslide failure movement identification using a topology-aided ML model. The work was published in Nature Communications and can be found here: https://www.nature.com/articles/s41467-024-46741-7
+This repository is a culmination of the work related to landslide failure movement identification using a topology-aided ML model. The published work can be found here: https://www.nature.com/articles/s41467-024-46741-7
 
 Please cite our work in case you decide to use our codes:
 Bhuyan, K., Rana, K., Ferrer, J.V. et al. Landslide topology uncovers failure movements. Nat Commun 15, 2633 (2024). https://doi.org/10.1038/s41467-024-46741-7
